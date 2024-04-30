@@ -1,0 +1,8 @@
+_BASE_: "Base-Panoptic-FPN.yaml"
+MODEL:
+  WEIGHTS: "configs/COCO-PanopticSegmentation/model_final_cafdb1.pkl"
+  RESNETS:
+    DEPTH: 101
+SOLVER:
+  STEPS: (210000, 250000)
+  MAX_ITER: 270000

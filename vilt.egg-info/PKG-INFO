@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: vilt
+Version: 1.0.0
+Summary: ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+Home-page: https://github.com/dandelin/vilt'
+Author: Wonjae Kim
+Author-email: wonjaekim@kakao.com
+License: MIT
+Description: UNKNOWN
+Keywords: vision and language pretraining
+Platform: UNKNOWN

@@ -1,0 +1,13 @@
+# ninja log v5
+6	1658	1634260424	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/cuda_version.o	e56d4a11778ebe19
+1	12766	1634260435	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	6c36ead9ab2811d4
+1	13793	1634260436	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	94d974a119b1c6fe
+0	16475	1634260439	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	51df99ffeb0f46e2
+1	17088	1634260439	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	28dd256f1983e54b
+3	23824	1634260446	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	1ec305f2d26a73cf
+3	24266	1634260447	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	de2c6c20f7688a7c
+2	24336	1634260447	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	ee1d2fb6d7d54f20
+2	25283	1634260448	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	23b4ebc1ea1a78db
+3	26385	1634260449	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	bb61f4f10b9f0885
+2	29008	1634260451	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	3b8b2bce9f14c000
+0	31294	1634260454	/data/Disk_A/chunyang/detectron2/build/temp.linux-x86_64-3.7/data/Disk_A/chunyang/detectron2/detectron2/layers/csrc/vision.o	7b442164949fee91
