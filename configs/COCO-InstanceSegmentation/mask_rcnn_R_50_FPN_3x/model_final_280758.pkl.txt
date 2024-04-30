@@ -1,0 +1,3 @@
+download the "model_final_280758.pkl" and put it in the "configs\COCO-InstanceSegmentation\mask_rcnn_R_50_FPN_3x" folder
+
+link: https://drive.google.com/file/d/1y8WQ8Hoolejzd97m17Sk-NHuI06DHENr/view?usp=sharing
