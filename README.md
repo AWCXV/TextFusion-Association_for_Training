@@ -8,7 +8,7 @@ Before using the coarse-to-fine association mechanism implementation, you need t
 Next, install the detectron2 platform:
 ```
 cd ..
-python -m pip install -e TextFusion-Association_for_Training
+python -m pip install -e TextFusion-Association_for_Training-main
 ```
 
 Finally, you are ready to use the vision&text modalities in the "input" folder for generating the association maps that will be saved in the "output" folder.
