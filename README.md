@@ -15,3 +15,14 @@ Finally, you are ready to use the vision&text modalities in the "input" folder f
 ```
 python main_genAssociation.py
 ```
+
+## Environment
+```
+Python 3.7.3
+torch 1.9.0+cu111
+pytorch-lightning 1.1.4
+timm 0.9.12
+scipy 1.7.3
+opencv-python 4.10.0.84
+
+```
